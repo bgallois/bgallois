@@ -4,6 +4,6 @@ I'm Benjamin Gallois open-source developer. 🔭 I’m currently working on [Fas
 
 :man_student: :man_scientist: PhD student at [LJP](https://github.com/LJPZebra) studying chemical perception on the young zebrafish :tropical_fish:.
 
-Vim user :hearts: 
+Vim & emacs user :hearts: 
 
 ![bgallois's github stats](https://github-readme-stats.vercel.app/api?username=bgallois&hide=["issues"]&show_icons=true)
