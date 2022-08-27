@@ -1,6 +1,7 @@
 ### Presentation
 
-Hi, I’m Benjamin Gallois, Ph.D. in physics and self-taught developer. For four years, I have had the opportunity to work with a vast spectrum of technologies including data analysis, computer vision, and software design. I’m currently working remotely as a freelancer providing my expertise on software conception from start to finish using C++/Qt/Python with a strong incentive for projects with computer vision and data analysis. See [there](https://gallois.cc/) for work related inquiry.
+Hi, I’m Benjamin Gallois, Ph.D. in physics and computer vision developer. For four years, I have had the opportunity to work with a vast spectrum of technologies, including data analysis, computer vision, and software design. 
+I’m the founder of Analyzable, a freelancing company, providing computer vision and software conception expertise using C++, Python, and OpenCV from prototyping to deployment. See [there](https://gallois.cc/) for work related inquiry.
 
 I'm the creator and maintainer of [FastTrack](https://github.com/orgs/FastTrackOrg/dashboard), a free (as freedom) tracking software for scientists that I created during my Ph.D. at [LJP](https://github.com/LJPZebra) studying chemical perception on the young zebrafish :tropical_fish:
 
