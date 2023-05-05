@@ -5,10 +5,16 @@ I’m the founder of Analyzable, a freelancing company, providing computer visio
 
 I'm the creator and maintainer of [FastTrack](https://github.com/orgs/FastTrackOrg/dashboard), a free (as freedom) tracking software for scientists that I created during my Ph.D. at [LJP](https://github.com/LJPZebra) studying chemical perception on the young zebrafish :tropical_fish:
 
+### What am I doing?
+For the time being, I'm working on the Duniter project. More specifically, I am working on Duniterv2S, the second version of the Duniter blockchain leveraging the Substrate framework.  
+I still accept relatively small freelance jobs in computer vision, from classical computer vision to deep learning.  
+In my spare time, I am developing PyFastTrack, an easy-to-use and highly flexible Python tracking library integrated with the FastTrack ecosystem that I still maintain.
+
 ### Programming
 I'm a self-taught programmer having learned languages and frameworks necessary for my project:
 
 * <img width="12" src="https://simpleicons.org/icons/python.svg"/> Python
+* <img width="12" src="https://simpleicons.org/icons/rust.svg"/> Rust
 * <img width="12" src="https://simpleicons.org/icons/julia.svg"/> Julia
 * <img width="12" src="https://simpleicons.org/icons/cplusplus.svg"/> C++
 * <img width="12" src="https://simpleicons.org/icons/latex.svg"/> LaTeX
