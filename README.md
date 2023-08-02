@@ -1,14 +1,13 @@
 ### Presentation
 
-Hi, I’m Benjamin Gallois, Ph.D. in physics and computer vision developer. For four years, I have had the opportunity to work with a vast spectrum of technologies, including data analysis, computer vision, and software design. 
-I’m the founder of Analyzable, a freelancing company, providing computer vision and software conception expertise using C++, Python, and OpenCV from prototyping to deployment. See [there](https://gallois.cc/) for work related inquiry.
+Hello, I'm Benjamin Gallois, a Ph.D. holder in physics and a computer vision developer. Over the past four years, I have had the privilege of working with a wide range of technologies, encompassing data analysis, computer vision, and software design. As the founder of Analyzable, a freelancing company, I offer expertise in computer vision and software conception, utilizing C++, Python, and OpenCV for tasks spanning from prototyping to deployment. For inquiries related to my work, please visit [this link](https://gallois.cc/).
 
-I'm the creator and maintainer of [FastTrack](https://github.com/orgs/FastTrackOrg/dashboard), a free (as freedom) tracking software for scientists that I created during my Ph.D. at [LJP](https://github.com/LJPZebra) studying chemical perception on the young zebrafish :tropical_fish:
+I'm the creator and maintainer of [FastTrack](https://github.com/FastTrackOrg), a tracking software designed for scientists. I developed this software during my Ph.D. at [LJP](https://github.com/LJPZebra), where I studied chemical perception in young zebrafish 🐟. Additionally, I oversee the FastTrack ecosystem, which includes a diverse range of tools for multiple object tracking and data analysis.
 
 ### What am I doing?
-For the time being, I'm working on the Duniter project. More specifically, I am working on Duniterv2S, the second version of the Duniter blockchain leveraging the Substrate framework.  
-I still accept relatively small freelance jobs in computer vision, from classical computer vision to deep learning.  
-In my spare time, I am developing PyFastTrack, an easy-to-use and highly flexible Python tracking library integrated with the FastTrack ecosystem that I still maintain.
+After 4 month working on the Duniter blockchain project using the Substrate framework.  I'm now working to extend the capability of You&EyePhoto the software used in the You&Eye Gallery franchise that I designed and created.
+
+In my spare time, I am developing a Deep Learning method to solve occlusion during tracking that could be integrated in PyFastTrack. I'm also working on optimizatin problem related to sport science.
 
 ### Programming
 I'm a self-taught programmer having learned languages and frameworks necessary for my project:
