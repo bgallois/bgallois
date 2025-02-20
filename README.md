@@ -12,44 +12,6 @@ I’m currently working as a contractor on the Duniter blockchain, built on Subs
 
 I’m always open to permanent positions, especially those involving open-source software or companies with a community-first policy. If you’re interested in working together, don't hesitate to get in touch with me at benjamin@gallois.cc!
 
-
-### Programming Skills
-
-I'm a self-taught programmer with proficiency in:
-
-* <img width="12" src="https://simpleicons.org/icons/python.svg"/> Python  
-* <img width="12" src="https://simpleicons.org/icons/rust.svg"/> Rust  
-* <img width="12" src="https://simpleicons.org/icons/julia.svg"/> Julia  
-* <img width="12" src="https://simpleicons.org/icons/cplusplus.svg"/> C++  
-* <img width="12" src="https://simpleicons.org/icons/latex.svg"/> LaTeX  
-* <img width="12" src="https://simpleicons.org/icons/html5.svg"/> <img width="12" src="https://simpleicons.org/icons/css3.svg"/> <img width="12" src="https://simpleicons.org/icons/javascript.svg"/> HTML/CSS/JS  
-* <img width="12" src="https://simpleicons.org/icons/cplusplus.svg"/> Qt/QML  
-* <img width="12" src="https://simpleicons.org/icons/hugo.svg"/> Hugo  
-* <img width="12" src="https://simpleicons.org/icons/substrate.svg"/> Substrate  
-
-### Software Experience
-
-I regularly work with the following software:
-
-* <img width="12" src="https://simpleicons.org/icons/kdenlive.svg"/> Kdenlive (video editing)  
-* <img width="12" src="https://simpleicons.org/icons/obsstudio.svg"/> OBS Studio (live streaming)  
-* <img width="12" src="https://simpleicons.org/icons/jitsi.svg"/> Jitsi (video conferencing)  
-* <img width="12" src="https://simpleicons.org/icons/blender.svg"/> Blender (3D creation)  
-* <img width="12" src="https://simpleicons.org/icons/inkscape.svg"/> Inkscape (vector editing)  
-* <img width="12" src="https://simpleicons.org/icons/gimp.svg"/> GIMP (image editing)  
-* <img width="12" src="https://img.icons8.com/material-two-tone/452/autodesk-fusion-360.png"/> Fusion 360 (CAD)  
-
-### My Development Environment
-
-I rely on free and open-source tools in my daily workflow:
-
-* <img width="12" src="https://simpleicons.org/icons/archlinux.svg"/> [ArcoLinux](https://arcolinux.com/) (Operating System)  
-* <img width="12" src="https://simpleicons.org/icons/archlinux.svg"/> [i3-gaps](https://github.com/Airblader/i3) (Window Manager)  
-* <img width="12" src="https://simpleicons.org/icons/vim.svg"/> [NeoVim](https://github.com/neovim/neovim) (Code Editor)  
-* <img width="12" src="https://simpleicons.org/icons/gnuemacs.svg"/> [Doom Emacs](https://github.com/hlissner/doom-emacs) (Document Editor)  
-
-You can find my configuration files [here](https://github.com/bgallois/dotfile).
-
 ### Projects
 
 #### **Computer Vision**
@@ -88,6 +50,42 @@ You can find my configuration files [here](https://github.com/bgallois/dotfile).
 - **[Polkadot-SDK](https://github.com/paritytech/polkadot-sdk):** Contributing to the Polkadot-SDK.
 
 
+### Programming Skills
+
+I'm a self-taught programmer with proficiency in:
+
+* <img width="12" src="https://simpleicons.org/icons/python.svg"/> Python  
+* <img width="12" src="https://simpleicons.org/icons/rust.svg"/> Rust  
+* <img width="12" src="https://simpleicons.org/icons/julia.svg"/> Julia  
+* <img width="12" src="https://simpleicons.org/icons/cplusplus.svg"/> C++  
+* <img width="12" src="https://simpleicons.org/icons/latex.svg"/> LaTeX  
+* <img width="12" src="https://simpleicons.org/icons/html5.svg"/> <img width="12" src="https://simpleicons.org/icons/css3.svg"/> <img width="12" src="https://simpleicons.org/icons/javascript.svg"/> HTML/CSS/JS  
+* <img width="12" src="https://simpleicons.org/icons/cplusplus.svg"/> Qt/QML  
+* <img width="12" src="https://simpleicons.org/icons/hugo.svg"/> Hugo  
+* <img width="12" src="https://simpleicons.org/icons/substrate.svg"/> Substrate  
+
+### Software Experience
+
+I regularly work with the following software:
+
+* <img width="12" src="https://simpleicons.org/icons/kdenlive.svg"/> Kdenlive (video editing)  
+* <img width="12" src="https://simpleicons.org/icons/obsstudio.svg"/> OBS Studio (live streaming)  
+* <img width="12" src="https://simpleicons.org/icons/jitsi.svg"/> Jitsi (video conferencing)  
+* <img width="12" src="https://simpleicons.org/icons/blender.svg"/> Blender (3D creation)  
+* <img width="12" src="https://simpleicons.org/icons/inkscape.svg"/> Inkscape (vector editing)  
+* <img width="12" src="https://simpleicons.org/icons/gimp.svg"/> GIMP (image editing)  
+* <img width="12" src="https://img.icons8.com/material-two-tone/452/autodesk-fusion-360.png"/> Fusion 360 (CAD)  
+
+### My Development Environment
+
+I rely on free and open-source tools in my daily workflow:
+
+* <img width="12" src="https://simpleicons.org/icons/archlinux.svg"/> [ArcoLinux](https://arcolinux.com/) (Operating System)  
+* <img width="12" src="https://simpleicons.org/icons/archlinux.svg"/> [i3-gaps](https://github.com/Airblader/i3) (Window Manager)  
+* <img width="12" src="https://simpleicons.org/icons/vim.svg"/> [NeoVim](https://github.com/neovim/neovim) (Code Editor)  
+* <img width="12" src="https://simpleicons.org/icons/gnuemacs.svg"/> [Doom Emacs](https://github.com/hlissner/doom-emacs) (Document Editor)  
+
+You can find my configuration files [here](https://github.com/bgallois/dotfile).
 
 ### My Contributions
 
