@@ -1,14 +1,17 @@
 ### Introduction
 
-Hi, I'm **Benjamin Gallois**, a Ph.D. in physics, computer vision, and Substrate-based blockchain developer. Over the past four years, I've specialized in data analysis, computer vision, and software design. I founded **Analyzable**, providing expert services in computer vision and software development using tools like C++, Python, and OpenCV, covering everything from prototyping to deployment. You can learn more about my work on [my website](https://gallois.cc/).
+Hi, I'm Benjamin Gallois, a physics Ph.D., software developer, and computer vision expert. Over the past four years, I've specialized in data analysis, software design, and blockchain development using Substrate. I founded Analyzable, offering freelance services in software development, Rust, C++, Python, and OpenCV, covering everything from prototyping to deployment.  
 
-I’m also the creator and maintainer of [FastTrack](https://github.com/FastTrackOrg), a scientific tracking software developed during my Ph.D. at [LJP](https://github.com/LJPZebra), where I researched chemical perception in zebrafish 🐟. Along with FastTrack, I manage an ecosystem of tools for multi-object tracking and data analysis.
+I’m also the creator and maintainer of [FastTrack](https://github.com/FastTrackOrg), a scientific tracking software developed during my Ph.D. at [LJP](https://github.com/LJPZebra). Alongside FastTrack, I manage tools for multi-object tracking and data analysis. You can learn more about my work on [my website](https://gallois.cc/).  
 
-### What I'm Working On
+### What I’m Working On
 
-- Freelancing for the **Duniter** blockchain, built on **Substrate**.
-- Freelance projects focused on computer vision.
-- Various data science projects related to sports performance.
+I’m currently working as a contractor on the Duniter blockchain, built on Substrate with Rust. In addition, I provide freelance services focusing on computer vision and developing cross-platform desktop applications (Rust/Python/C++), handling everything from design to production. I also contribute to open-source projects that align with my interests, particularly those in sports and science. 
+
+### What’s Next?
+
+I’m always open to permanent positions, especially those involving open-source software or companies with a community-first policy. If you’re interested in working together, don't hesitate to get in touch with me at benjamin@gallois.cc!
+
 
 ### Programming Skills
 
@@ -50,35 +53,41 @@ You can find my configuration files [here](https://github.com/bgallois/dotfile).
 ### Projects
 
 #### **Computer Vision**
-- **[FastTrack](https://github.com/FastTrackOrg/FastTrack):** Scientific tracking software.
-- **[PyFastTrack](https://github.com/FastTrackOrg/PyFastTrack):** Python integration of FastTrack with deep learning capabilities.
-- **[FastOcclusion](https://github.com/FastTrackOrg/FastOcclusion):** Deep learning solution for occlusion issues in tracking.
+- **[FastTrack](https://github.com/FastTrackOrg/FastTrack):** Scientific tracking software. ![GitHub stars](https://img.shields.io/github/stars/FastTrackOrg/FastTrack?style=social)
+- **[PatchBasedTextureInpainting](https://github.com/Analyzable-FR/patch-based-texture-inpainting):** Image quilting for texture inpainting library. ![GitHub stars](https://img.shields.io/github/stars/Analyzable-FR/patch-based-texture-inpainting?style=social)
+- **[FastOcclusion](https://github.com/FastTrackOrg/FastOcclusion):** Deep learning solution for occlusion issues in tracking. ![GitHub stars](https://img.shields.io/github/stars/FastTrackOrg/FastOcclusion?style=social)
+- **[PyFastTrack](https://github.com/FastTrackOrg/PyFastTrack):** Python integration of FastTrack with deep learning capabilities. ![GitHub stars](https://img.shields.io/github/stars/FastTrackOrg/PyFastTrack?style=social)
+- **[CppImageViewer](https://github.com/Analyzable-FR/CPP-ImageViewer):** Qt widget for large image display. ![GitHub stars](https://img.shields.io/github/stars/Analyzable-FR/CPP-ImageViewer?style=social)
+- **[PysideImageViewer](https://github.com/Analyzable-FR/PySide2-ImageViewer):** Qt widget for large image display in Python. ![GitHub stars](https://img.shields.io/github/stars/Analyzable-FR/PySide2-ImageViewer?style=social)
 - **You&EyePhoto:** Iris image processing software for the You&Eye art gallery.
-- **[CircularTransform](https://github.com/Analyzable-FR/circular_transform):** Fast remapping of deformed objects into perfect circles.
-- **[Pyside6CurveEditor](https://github.com/Analyzable-FR/pyside6-curve-editor):** Qt widget for image level correction.
-- **[CppImageViewer](https://github.com/Analyzable-FR/CPP-ImageViewer):** Qt widget for large image display.
-- **[PysideImageViewer](https://github.com/Analyzable-FR/PySide2-ImageViewer):** Qt widget for large image display in Python.
+- **[CircularTransform](https://github.com/Analyzable-FR/circular_transform):** Fast remapping of deformed objects into perfect circles. ![GitHub stars](https://img.shields.io/github/stars/Analyzable-FR/circular_transform?style=social)
+- **[Pyside6CurveEditor](https://github.com/Analyzable-FR/pyside6-curve-editor):** Qt widget for image level correction. ![GitHub stars](https://img.shields.io/github/stars/Analyzable-FR/pyside6-curve-editor?style=social)
 - **DeepIris:** Deep learning model for iris and pupil segmentation.
 
 #### **Data Analysis**
-- **[FastAnalyzer](https://github.com/FastTrackOrg/FastAnalyzer):** Software for analyzing FastTrack outputs.
-- **[FastAnalysis](https://github.com/FastTrackOrg/FastAnalysis):** Python library to work with FastTrack data.
-- **[HRV Tools](https://github.com/bgallois/hrv_tools):** Cardiac variability analysis using open-source PPG sensors.
-- **[PeakPacer](https://github.com/bgallois/PeakPacer):** Web app for field testing CdA and optimizing power profiles for cyclists.
-- **[LapsAnalyzer](https://github.com/bgallois/LapsAnalyzer):** Tool to analyze and compare laps in cycling races.
+- **[FastAnalyzer](https://github.com/FastTrackOrg/FastAnalyzer):** Software for analyzing FastTrack outputs. ![GitHub stars](https://img.shields.io/github/stars/FastTrackOrg/FastAnalyzer?style=social)
+- **[FastAnalysis](https://github.com/FastTrackOrg/FastAnalysis):** Python library to work with FastTrack data. ![GitHub stars](https://img.shields.io/github/stars/FastTrackOrg/FastAnalysis?style=social)
+- **[PeakPacer](https://github.com/bgallois/PeakPacer):** Web app for field testing CdA and optimizing power profiles for cyclists. ![GitHub stars](https://img.shields.io/github/stars/bgallois/PeakPacer?style=social)
+- **[LapsAnalyzer](https://github.com/bgallois/LapsAnalyzer):** Tool to analyze and compare laps in cycling races. ![GitHub stars](https://img.shields.io/github/stars/bgallois/LapsAnalyzer?style=social)
+- **[HRV Tools](https://github.com/bgallois/hrv_tools):** Cardiac variability analysis using open-source PPG sensors. ![GitHub stars](https://img.shields.io/github/stars/bgallois/hrv_tools?style=social)
 
 #### **Other Projects**
-- **[jotform-api](https://github.com/Analyzable-FR/jotform-api-qt):** C++ API for Jotform integration.
-- **[OpenJournal](https://github.com/bgallois/OpenJournal):** Journal and note-taking app.
-- **[QSensor](https://github.com/bgallois/QSensor):** GUI to monitor hardware usage and temperature.
-- **[Level](https://github.com/bgallois/level):** Android spirit level app.
+- **[Level](https://github.com/bgallois/level):** Android spirit level app. ![GitHub stars](https://img.shields.io/github/stars/bgallois/level?style=social)
+- **[jotform-api](https://github.com/Analyzable-FR/jotform-api-qt):** C++ API for Jotform integration. ![GitHub stars](https://img.shields.io/github/stars/Analyzable-FR/jotform-api-qt?style=social)
+- **[OpenJournal](https://github.com/bgallois/OpenJournal):** Journal and note-taking app. ![GitHub stars](https://img.shields.io/github/stars/bgallois/OpenJournal?style=social)
+- **[QSensor](https://github.com/bgallois/QSensor):** GUI to monitor hardware usage and temperature. ![GitHub stars](https://img.shields.io/github/stars/bgallois/QSensor?style=social)
+- **[SecuraFolder](https://github.com/bgallois/SecuraFolder):** Portable encryption tool for storing files securely. ![GitHub stars](https://img.shields.io/github/stars/bgallois/SecuraFolder?style=social)
 
 #### **Blockchain**
-- **[AuthenticPay](https://github.com/bgallois/AuthenticPay):** Collection of Ink! smart contracts.
-- **[WeightDecorator](https://github.com/bgallois/weight-decorator):** Crate for weight accounting in Substrate nodes.
+- **[DuniterNodeManager](https://github.com/bgallois/DuniterNodeManager):** Minimal graphical tool to manage a Duniter node. ![GitHub stars](https://img.shields.io/github/stars/bgallois/DuniterNodeManager?style=social)
+- **[AuthenticPay](https://github.com/bgallois/AuthenticPay):** Collection of Ink! smart contracts. ![GitHub stars](https://img.shields.io/github/stars/bgallois/AuthenticPay?style=social)
+- **[WeightDecorator](https://github.com/bgallois/weight-decorator):** Crate for weight accounting in Substrate nodes. ![GitHub stars](https://img.shields.io/github/stars/bgallois/weight-decorator?style=social)
 
 #### **Contributions**
-- **[Duniter-v2s Contributions](https://git.duniter.org/bgallois):** Contributing to the Duniter v2s Substrate node.
+- **[Duniter-v2s Contributions](https://github.com/duniter/duniter-v2s):** Contributing to the Duniter v2s Substrate node.
+- **[Polkadot-SDK](https://github.com/paritytech/polkadot-sdk):** Contributing to the Polkadot-SDK.
+
+
 
 ### My Contributions
 
