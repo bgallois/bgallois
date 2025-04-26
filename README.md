@@ -1,16 +1,18 @@
 ### Introduction
 
-Hi, I'm Benjamin Gallois, a physics Ph.D., software developer, and computer vision expert. Over the past four years, I've specialized in data analysis, software design, and blockchain development using Substrate. I founded Analyzable, offering freelance services in software development, Rust, C++, Python, and OpenCV, covering everything from prototyping to deployment.  
+Hi, I'm Benjamin Gallois, a software engineer with a Ph.D. in physics. Over the past five years, I've focused on **data analysis**, **software development**, and **blockchain engineering**. I founded **Analyzable**, offering freelance services in **Rust**, **C++**, and **Python**, covering everything from prototyping to deployment.
 
-I’m also the creator and maintainer of [FastTrack](https://github.com/FastTrackOrg), a scientific tracking software developed during my Ph.D. at [LJP](https://github.com/LJPZebra). Alongside FastTrack, I manage tools for multi-object tracking and data analysis. You can learn more about my work on [my website](https://gallois.cc/).  
+I'm also the creator and maintainer of [FastTrack](https://github.com/FastTrackOrg), an open-source scientific tracking tool developed during my Ph.D. at [LJP](https://github.com/LJPZebra). Alongside FastTrack, I manage companion tools for **multi-object tracking** and **data analysis**. You can find out more about my work on [my website](https://www.gallois.cc).
 
-### What I’m Working On
+### What I'm Working On
 
-I’m currently working as a contractor on the Duniter blockchain, built on Substrate with Rust. In addition, I provide freelance services focusing on computer vision and developing cross-platform desktop applications (Rust/Python/C++), handling everything from design to production. I also contribute to open-source projects that align with my interests, particularly those in sports and science. 
+I work as a contractor on the [Duniter blockchain](https://duniter.org/), which is built on top of Substrate (Rust). In parallel, I provide freelance services focused on **computer vision** and **cross-platform desktop application development** (Rust/Python/C++), covering everything from **UI/UX design** to **final production**.  
+I also actively contribute to open-source projects related to **sports**, **science**, and **decentralized technologies**, which are my passions. I love to tinker with everything from **electronics** to **software**.
 
-### What’s Next?
+### What's Next?
 
-I’m always open to permanent positions, especially those involving open-source software or companies with a community-first policy. If you’re interested in working together, don't hesitate to get in touch with me at benjamin@gallois.cc!
+I'm open to new opportunities, particularly in **open-source**, **community-driven projects**, or **innovative companies tackling cutting-edge technologies**, either as a freelance contractor or as a full-time employee.  
+If you're interested in working together, please get in touch at **benjamin@gallois.cc**.
 
 ### Projects
 
@@ -81,7 +83,8 @@ I regularly work with the following software:
 I rely on free and open-source tools in my daily workflow:
 
 * <img width="12" src="https://simpleicons.org/icons/archlinux.svg"/> [ArcoLinux](https://arcolinux.com/) (Operating System)  
-* <img width="12" src="https://simpleicons.org/icons/archlinux.svg"/> [i3-gaps](https://github.com/Airblader/i3) (Window Manager)  
+* <img width="12" src="https://simpleicons.org/icons/archlinux.svg"/> [Leftwm](https://github.com/leftwm/leftwm) (Window Manager)
+* <img width="12" src="https://simpleicons.org/icons/alacritty.svg"/> [Alacritty](https://github.com/alacritty/alacritty) (Terminal)  
 * <img width="12" src="https://simpleicons.org/icons/vim.svg"/> [NeoVim](https://github.com/neovim/neovim) (Code Editor)  
 * <img width="12" src="https://simpleicons.org/icons/gnuemacs.svg"/> [Doom Emacs](https://github.com/hlissner/doom-emacs) (Document Editor)  
 
