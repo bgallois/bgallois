@@ -1,18 +1,14 @@
 ### Introduction
 
-Hi, I'm Benjamin Gallois, a software engineer with a Ph.D. in physics. Over the past five years, I've focused on **data analysis**, **software development**, and **blockchain engineering**. I founded **Analyzable**, offering freelance services in **Rust**, **C++**, and **Python**, covering everything from prototyping to deployment.
+Hi, I'm Benjamin Gallois, a software engineer with a Ph.D. in physics. Over the past several years, I've focused on **scientific computing**, **low-level systems development**, **computer vision**, and **blockchain engineering**. I founded **Analyzable**, offering freelance services in **Rust**, **C++**, and **Python**, covering everything from prototyping to deployment.  
 
-I'm also the creator and maintainer of [FastTrack](https://github.com/FastTrackOrg), an open-source scientific tracking tool developed during my Ph.D. at [LJP](https://github.com/LJPZebra). Alongside FastTrack, I manage companion tools for **multi-object tracking** and **data analysis**. You can find out more about my work on [my website](https://www.gallois.cc).
+I'm also the creator and maintainer of [FastTrack](https://github.com/FastTrackOrg), an open-source scientific tracking tool developed during my Ph.D. at [LJP](https://github.com/LJPZebra). Alongside FastTrack, I manage companion tools for **multi-object tracking** and **data analysis**. You can find out more about my work on [my website](https://www.gallois.cc).  
 
 ### What I'm Working On
 
-I work as a contractor on the [Duniter blockchain](https://duniter.org/), which is built on top of Substrate (Rust). In parallel, I provide freelance services focused on **computer vision** and **cross-platform desktop application development** (Rust/Python/C++), covering everything from **UI/UX design** to **final production**.  
-I also actively contribute to open-source projects related to **sports**, **science**, and **decentralized technologies**, which are my passions. I love to tinker with everything from **electronics** to **software**.
+I am currently a **Research Engineer at CNRS (IMPMC, Sorbonne Université, MNHN)**, developing advanced software for **cryo-electron microscopy image analysis and molecular dynamics simulations**. My focus is on improving **scientific computing tools** in terms of **performance, robustness, usability, and maintainability**, contributing to **advances in structural biology and drug discovery**.  
 
-### What's Next?
-
-I'm open to new opportunities, particularly in **open-source**, **community-driven projects**, or **innovative companies tackling cutting-edge technologies**, either as a freelance contractor or as a full-time employee.  
-If you're interested in working together, please get in touch at **benjamin@gallois.cc**.
+I also actively contribute to open-source projects related to **science**, **decentralized technologies**, and **community-driven initiatives**, which are my passions. I enjoy exploring everything from **electronics** to **software systems**, and sharing my work openly.  
 
 ### Projects
 
